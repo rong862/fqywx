@@ -5,6 +5,7 @@
 
 适配版本：4.0.16（19901）、4.0.19（20104）
 
+需要打开其他应用唤醒开关，来读取配置信息：（否则模块进程被杀掉会导致定位失败）
+![1666349468396](https://user-images.githubusercontent.com/1235777/197180583-e2977fb6-8864-4ee0-862c-3db4e56cf6c8.png)
 
-![shezhi1](https://user-images.githubusercontent.com/1235777/196890910-441eb46f-a600-40d6-87a1-f97ffd112c97.png)![weizhi](https://user-images.githubusercontent.com/1235777/196890956-be07b6d6-5e31-4a06-84da-eedda05273ef.png)
 
